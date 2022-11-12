@@ -2,7 +2,7 @@
 
 ## What?
 
-Provide a big-picture view of attacks and defences.
+Provide a big-picture view of attacks and defences using frameworks.
 
 ## Why?
 
