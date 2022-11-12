@@ -79,5 +79,6 @@ html_show_copyright = False
 # Intersphinx
 intersphinx_mapping = {
     "green": ("https://tymyrddin.github.io/green/", None),
+    "green-frameworks": ("https://tymyrddin.github.io/green-frameworks/", None),
 }
 myst_url_schemes = ["http", "https", ]

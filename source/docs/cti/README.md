@@ -2,7 +2,7 @@
 
 ## What?
 
-Provide a big-picture view of defences.
+Provide a big-picture view of attackers and defences. 
 
 ## Why?
 
@@ -11,5 +11,5 @@ continuous improvement.
 
 ## How?
 
-* [CTI Lifecycle](lifecycle.md)
-* [CTI Standards & Frameworks](standards.md)
+* [Lifecycle](lifecycle.md)
+* [Standards & Frameworks](standards.md)
