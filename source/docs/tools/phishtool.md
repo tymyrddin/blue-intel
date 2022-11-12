@@ -33,7 +33,7 @@ Check the attachments tab:
 
 | ![Phishtool](../../_static/images/phishtool-gethash.png)
 |:--:|
-| Copy the attachment SHA256 hash (enter in [Talos](talos.md). |
+| Copy the attachment SHA256 hash (enter in [Talos](talos.md)). |
 
 ## Scenario 2
 
@@ -41,5 +41,5 @@ Download the task files for analysis, and upload to phishtool:
 
 | ![Phishtool](../../_static/images/phishtool-email3.png)
 |:--:|
-| Get name of attachment and copy the SHA256 hash (enter in [Talos](talos.md). |
+| Get name of attachment and copy the SHA256 hash (enter in [Talos](talos.md)). |
 
