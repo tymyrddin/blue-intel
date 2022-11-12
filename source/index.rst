@@ -13,6 +13,7 @@ Threat Intelligence
    docs/landscapes/maps.md
    docs/landscapes/trees.md
    docs/landscapes/collection.md
+   docs/landscapes/standards.md
 
 .. toctree::
    :maxdepth: 1
@@ -21,7 +22,6 @@ Threat Intelligence
 
    docs/frameworks/README.md
    docs/frameworks/lifecycle.md
-   docs/frameworks/standards.md
    docs/frameworks/pyramid.md
    docs/frameworks/ckc.md
    docs/frameworks/mitre.md
