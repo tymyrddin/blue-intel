@@ -20,7 +20,7 @@ it.
 
 * [Cyber Resilience Institute](https://www.cyberresilienceinstitute.org/about-toolkit/threat-intel-resources/)
 
-## Threat feeds
+## Feeds
 
 If you want to become more proactive in collecting data there are a number of open source threat feeds you can use 
 to stay informed of suspicious IP addresses and domains as a starting point for threat research. 
@@ -30,7 +30,7 @@ to stay informed of suspicious IP addresses and domains as a starting point for 
 * [Malshare](https://malshare.com/)
 * [dan.me.uk Tor nodes](https://www.dan.me.uk/tornodes)
 
-## Threat blogs
+## Blogs
 
 Some informative blogs that range from general threat intelligence to incident response to geopolitical attacks: 
 
@@ -39,12 +39,12 @@ Some informative blogs that range from general threat intelligence to incident r
 * [The DFIR Report](https://thedfirreport.com/)
 * [FireEye Threat Research Blogs](https://www.fireeye.com/blog/threat-research.html)
 
-## Threat reports
+## Reports
 
 Retrospective reports over a period of time:
 
 * [Cisco Midyear Security Report](https://www.cisco.com/c/en/us/products/security/cybersecurity-reports.html)
 
-## Threat marketplaces
+## Marketplaces
 
 * [SOC Prime Threat Detection Marketplace](https://tdm.socprime.com/)
