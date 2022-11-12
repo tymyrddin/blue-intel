@@ -29,6 +29,17 @@ Threat Intelligence
    docs/frameworks/diamond.md
 
 .. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: OSINT Tools
+
+   docs/tools/README.md
+   docs/tools/urlscan.md
+   docs/tools/abuse.md
+   docs/tools/phishtool.md
+   docs/tools/talos.md
+
+.. toctree::
    :caption: Links
 
    Green Team <https://tymyrddin.github.io/green/>
