@@ -1,15 +1,7 @@
-# Introduction
-
-## What?
-
-Provide a big-picture view of common attacks.
-
-## Why?
+# Threat maps
 
 While these threat maps have no practical usage for defence, threat maps can be used to study past attack 
 styles. Plus, some are beautiful and/or fun to watch.
-
-## How?
 
 Mind that the source of an attack is often forged, which means that it appears as though it was initiated from a 
 certain country, but it is not from that country at all. The largest attacks usually originate from high bandwidth 

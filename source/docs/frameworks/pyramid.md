@@ -2,14 +2,16 @@
 
 | ![Pyramid of pain](../../_static/images/pop.png)
 |:--:|
-| The Pyramid of Pain is a conceptual model for the effective use of Cyber Threat Intelligence in threat <br>detection operations, with a particular emphasis on increasing the adversaries' cost of operations. |
-
+| [The Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html) is a conceptual model for the effective use of Cyber Threat Intelligence in threat <br>detection operations, with a particular emphasis on increasing the adversaries' cost of operations. |
 
 ##  Hash Values
 
 Most hash algorithms compute a message digest of the entire input, and output a fixed length hash that is unique to 
 the given input.  If the contents of two files varies even by a single bit, the resultant hash values of the two 
 files are different.  
+
+* [VirusTotal](https://www.virustotal.com/gui/home/upload)
+* [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
 
 It is really easy to spot a malicious file if we have the hash in our arsenal. But as an attacker, it is trivial to 
 modify a file by even a single bit, which would produce a different hash value. With so many variations and instances 
@@ -19,6 +21,9 @@ difficult task.
 Fuzzy hashes attempt to solve this problem by computing hash values that take into account similarities in the input. 
 Two files with only minor or moderate differences would have fuzzy hash values that are similar, allowing an 
 investigator to note a possible relationship between them.
+
+* [SSDeep](https://ssdeep-project.github.io/ssdeep/index.html)
+* [Any.run](https://app.any.run/)
 
 ##  IP Addresses
 
@@ -32,6 +37,8 @@ using a new public IP address.
 
 If they are using Fast Flux, or an anonymous proxy service like Tor or something similar, they may 
 change IP address quite frequently and never even notice or care.
+
+* [Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns](https://unit42.paloaltonetworks.com/fast-flux-101/)
 
 ## Domain Names
 
@@ -70,7 +77,6 @@ Some examples of tool indicators might include AV or Yara signatures, if they ar
 same files even with moderate changes. Network aware tools with a distinctive communication protocol may also fit 
 at this level, where changing the protocol would require substantial rewrites to the original tool. And fuzzy hashes. 
 
-
 ## Tactics, Techniques & Procedures
 
 At the apex of the pyramid are the TTPs. Detecting and responding at this level means operating against adversary 
@@ -83,17 +89,3 @@ be able to find the compromised host very quickly and stop the lateral movement 
 From an effectiveness standpoint, this level is ideal. If you are able to respond to adversary TTPs quickly enough, 
 you force them to do the most time-consuming thing possible: learn new behaviours. Or give up.
 
-## Resources
-
-* [Enterprise Detection & Response: The Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
-* [The DFIR Report](https://thedfirreport.com/)
-* [FireEye Threat Research Blogs](https://www.fireeye.com/blog/threat-research.html)
-* [VirusTotal](https://www.virustotal.com/gui/home/upload)
-* [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
-* [Any.run](https://app.any.run/)
-* [Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns](https://unit42.paloaltonetworks.com/fast-flux-101/)
-* [MalwareBazaar](https://bazaar.abuse.ch/)
-* [Malshare](https://malshare.com/)
-* [SOC Prime Threat Detection Marketplace](https://tdm.socprime.com/)
-* [SSDeep](https://ssdeep-project.github.io/ssdeep/index.html)
-* [MITRE ATT&CK Matrix](https://attack.mitre.org/)
