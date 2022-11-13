@@ -2,7 +2,7 @@
 
 ## What?
 
-Standardisation. 
+Standardisation of communication on threat intel information. 
 
 ## Why?
 
