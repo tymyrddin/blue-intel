@@ -54,9 +54,19 @@ This tab lists all items related to an attack and any legitimate tools identifie
 * Malware: Known and active malware and trojan are listed with details of their identification and mapping based on 
 the knowledge ingested into the platform. For example, we can analyse the 4H RAT malware, and extract information and 
 associations made about the malware.
+
+| ![OpenCTI arsenal 4H RAT](../../_static/images/opencti-arsenal.png)
+|:--:|
+| Putter Panda |
+
 * Attack Patterns: Adversaries implement and use different TTPs to target, compromise, and achieve their objectives. 
 We can look at the details of the Command-Line Interface and make decisions based on the relationships established on 
 the platform and navigate through an investigation associated with the technique.
+
+| ![OpenCTI arsenal attack pattern Command-Line Interface](../../_static/images/opencti-arsenal2.png)
+|:--:|
+| Kill chain phase `execution-ics` |
+
 * Courses of Action: MITRE maps out concepts and technologies that can be used to prevent an attack technique from 
 being employed successfully. These are represented as Courses of Action (CoA) against the TTPs.
 * Tools: Lists all legitimate tools and services developed for network maintenance, monitoring and management. 
@@ -71,3 +81,40 @@ maintained by MITRE is used and imported via a connector.
 
 This tab categorises all entities based on operational sectors, countries, organisations and individuals. This 
 information allows for knowledge enrichment on attacks, organisations or intrusion sets.
+
+## General tabs navigation
+
+The day-to-day usage of OpenCTI would involve navigating through different entities within the platform to understand 
+and use the information for any threat analysis. 
+
+A walkthrough for the Cobalt Strike malware entity:
+
+Overview Tab: Provides the general information about an entity being analysed and investigated:
+
+| ![OpenCTI Cobalt Strike Overview](../../_static/images/opencti-cobalt.png)
+|:--:|
+| Entity ID, confidence level, description, relations created based on threats, intrusion sets and <br>attack patterns, reports mentioning the entity and any external references. |
+
+Knowledge Tab: Presents linked information associated with the entity selected:
+
+| ![OpenCTI Cobalt Strike Knowledge](../../_static/images/opencti-cobalt2.png)
+|:--:|
+| Associated reports, indicators, relations and attack pattern timeline of the entity. |
+
+Additionally, an analyst can view fine-tuned details from the tabs on the right-hand pane, where information about 
+the threats, attack vectors, events and observables used within the entity are presented.
+
+Analysis Tab: Provides the reports where the identified entry has been seen. 
+
+| ![OpenCTI Cobalt Strike Analysis](../../_static/images/opencti-cobalt3.png)
+|:--:|
+| The analysis provides usable information about a threat and guides investigation tasks. |
+
+Indicators Tab: Provides information on IOC identified for all the threats and entities.
+
+Data Tab: Contains the files uploaded or generated for export that are related to the entity. These assist in 
+communicating information about threats being investigated in either technical or non-technical formats.
+
+History Tab: Changes made to the element, attributes, and relations are tracked by the platform worker and this tab 
+will outline the changes.
+
