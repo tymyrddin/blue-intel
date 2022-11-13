@@ -2,11 +2,19 @@
 
 ## What?
 
-Explore some non-OSINT tools used to conduct security threat assessments and investigations.
+Standardisation. 
 
 ## Why?
 
-To generate meaningful patterns on how to mitigate against potential risks associated with existing or emerging threats.
+To achieve consistently high levels of:
+
+* Clarity
+* Measurability
+* Quality
+* Repeatability & error susceptibility
+* Portability & transferability
+* Automation
+* Productivity
 
 ## How?
 
