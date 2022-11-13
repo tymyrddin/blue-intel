@@ -13,5 +13,4 @@ To understand general and unique threat landscapes.
 * [Threat maps](maps.md)
 * [Attack trees](trees.md)
 * [Data collection](collection.md)
-* [Standards & Frameworks](standards.md)
 
