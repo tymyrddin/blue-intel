@@ -2,7 +2,7 @@
 
 ## What?
 
-Explore some OSINT tools used to conduct security threat assessments and investigations.
+Explore some non-OSINT tools used to conduct security threat assessments and investigations.
 
 ## Why?
 
@@ -10,8 +10,9 @@ To generate meaningful patterns on how to mitigate against potential risks assoc
 
 ## How?
 
-* [UrlScan.io](urlscan.md)
-* [Abuse.ch](abuse.md)
-* [PhishTool](phishtool.md)
-* [Cisco Talos Intelligence](talos.md)
+Sections on [Threat and vulnerability management](blue-threats:index)
+
+* [YARA](blue-threats:docs/yara/README)
+* [OPENVAS](blue-threats:docs/openvas/README)
+* [MISP](blue-threats:docs/misp/README)
 

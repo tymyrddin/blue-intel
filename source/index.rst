@@ -33,11 +33,21 @@ Threat Intelligence
    :includehidden:
    :caption: OSINT Tools
 
+   docs/osint/README.md
+   docs/osint/urlscan.md
+   docs/osint/abuse.md
+   docs/osint/phishtool.md
+   docs/osint/talos.md
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Other tools
+
    docs/tools/README.md
-   docs/tools/urlscan.md
-   docs/tools/abuse.md
-   docs/tools/phishtool.md
-   docs/tools/talos.md
+   YARA <https://tymyrddin.github.io/blue-threats/docs/yara/README.html>
+   OPENVAS <https://tymyrddin.github.io/blue-threats/docs/openvas/README.html>
+   MISP <https://tymyrddin.github.io/blue-threats/docs/misp/README.html>
 
 .. toctree::
    :caption: Links
