@@ -1,8 +1,8 @@
 # Unified kill chain
 
-| ![Unified Kill Chain](../../_static/images/unified-kill-chain.png)
+| ![Unified Kill Chain](../../_static/images/ukc.png)
 |:--:|
-| Empire’s capabilities and infrastructure, as well as the dependencies or tactics that enable them. |
+| Unified kill chain: In, through, out. |
 
 A more comprehensive approach combines elements from both the [Cyber kill chain](ckc.md) and the 
 [MITRE ATT&CK kill chain](mitre.md), dividing an attack into 18 stages: Everything from reconnaissance to 
