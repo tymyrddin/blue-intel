@@ -5,8 +5,8 @@ Many forms of attacks are common today, including zero-day exploits, malware, ph
 attacks, and denial of service attacks. Different ways of attacking computer systems and networks constantly evolve
 as attackers find new vulnerabilities to exploit.
 
-Cyber Threat Intelligence (CTI) helps stay informed about new threats. Security experts organise, analyse, and
-refine the information they gather about attacks, so they can be learned from to protect organisations better.
+Threat intelligence (or security intelligence) helps stop or mitigate an attack that is in progress. The more an
+IT team understands about an attack, the better they will be able to make an informed decision about how to counter it.
 
 .. toctree::
    :maxdepth: 1

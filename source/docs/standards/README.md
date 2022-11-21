@@ -2,7 +2,12 @@
 
 ## What?
 
-Standardisation of communication on threat intel information. 
+Standardisation of communication on evidence-based information:
+
+* Mechanisms of an attack
+* How to detect an attack
+* Impact of different types of attacks
+* Action-oriented advice about how to defend against attacks
 
 ## Why?
 
