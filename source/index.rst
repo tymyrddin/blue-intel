@@ -1,28 +1,12 @@
 Threat Intelligence
 ===============================================
 
-Vulnerability intelligence is just one stage in the vulnerability management lifecycle. Where many organisations
-fall flat is having a vulnerability intelligence program without an actionable vulnerability management strategy –
-or vice versa.
+Many forms of attacks are common today, including zero-day exploits, malware, phishing, on-path (man-in-the-middle)
+attacks, and denial of service attacks. Different ways of attacking computer systems and networks constantly evolve
+as attackers find new vulnerabilities to exploit.
 
-Vulnerability intelligence will only tell you what the current vulnerabilities are and what type of risk these
-vulnerabilities present. It won’t, however, tell you what to do about them or whether you should do anything at all.
-That is all part of the ongoing cycle of vulnerability management. Likewise vulnerability management without
-intelligence can’t tell you which vulnerabilities exist at all.
-
-When it comes to building a threat intelligence and vulnerability management strategy, there are a few best practices
-to get started: Plan ahead with room for flexibility; Understand threat priorities; *Strategically* patch and apply
-updates.
-
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Threat landscapes
-
-   docs/landscapes/README.md
-   docs/landscapes/maps.md
-   docs/landscapes/trees.md
-   docs/landscapes/collection.md
+Cyber Threat Intelligence (CTI) helps stay informed about new threats. Security experts organise, analyse, and
+refine the information they gather about attacks, so they can be learned from to protect organisations better.
 
 .. toctree::
    :maxdepth: 1
@@ -32,6 +16,7 @@ updates.
    docs/standards/README.md
    docs/standards/taxii.md
    docs/standards/stix.md
+   docs/standards/trees.md
 
 .. toctree::
    :maxdepth: 1
