@@ -1,4 +1,4 @@
-Threat Intelligence
+Threat intelligence
 ===============================================
 
 Many forms of attacks are common today, including zero-day exploits, malware, phishing, on-path (man-in-the-middle)
