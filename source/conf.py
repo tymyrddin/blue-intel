@@ -77,7 +77,7 @@ html_show_copyright = False
 
 # Intersphinx
 intersphinx_mapping = {
-    "green": ("https://tymyrddin.github.io/green/", None),
+    "blue": ("https://tymyrddin.github.io/blue/", None),
     "blue-threats": ("https://tymyrddin.github.io/blue-threats/", None),
     "blue-ir": ("https://tymyrddin.github.io/blue-ir/", None),
 }

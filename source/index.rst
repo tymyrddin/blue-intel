@@ -67,16 +67,6 @@ IT team understands about an attack, the better they will be able to make an inf
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Other tools
-
-   docs/tools/README.md
-   YARA <https://tymyrddin.github.io/blue-threats/docs/yara/README.html>
-   OPENVAS <https://tymyrddin.github.io/blue-threats/docs/openvas/README.html>
-   MISP <https://tymyrddin.github.io/blue-threats/docs/misp/README.html>
-
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
    :caption: OpenCTI
 
    docs/opencti/README.md
@@ -87,4 +77,4 @@ IT team understands about an attack, the better they will be able to make an inf
 .. toctree::
    :caption: Links
 
-   Green Team <https://tymyrddin.github.io/green/>
+   Blue Team <https://tymyrddin.github.io/blue/>
