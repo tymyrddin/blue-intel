@@ -57,7 +57,6 @@ html_title = "Threat intelligence"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -79,6 +78,6 @@ html_show_copyright = False
 intersphinx_mapping = {
     "blue": ("https://tymyrddin.github.io/blue/", None),
     "blue-threats": ("https://tymyrddin.github.io/blue-threats/", None),
-    "blue-ir": ("https://tymyrddin.github.io/blue-ir/", None),
+    "blue-dfir": ("https://tymyrddin.github.io/blue-dfir/", None),
 }
 myst_url_schemes = ["http", "https", ]
