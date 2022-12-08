@@ -77,4 +77,4 @@ IT team understands about an attack, the better they will be able to make an inf
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>
